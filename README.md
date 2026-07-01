@@ -151,7 +151,7 @@ ShopifyCRO/
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Piyusharora04/Shopify_CRO.git
 
 cd ShopifyCRO
 ```
